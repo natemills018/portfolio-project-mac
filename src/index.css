@@ -12,8 +12,6 @@ import '@fontsource/roboto/700.css'; */
 @tailwind utilities;
 
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
